@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{6265e050-e3b9-429b-9710-36856c5dc227}">
 		<property name="name">
-			<value>pizzatimeDA</value>
+			<value>pizzatimeAT</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
