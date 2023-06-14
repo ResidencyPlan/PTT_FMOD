@@ -679,7 +679,7 @@
 			<destination>{bac49833-135c-4afc-a521-1abe7acf302c}</destination>
 		</relationship>
 		<relationship name="markerTrack">
-			<destination>{602158a8-472c-42c2-8b92-bebffe02aca1}</destination>
+			<destination>{2d328a47-3145-4f78-bd26-41f2d64ab4bb}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{abb1a8d9-84a2-459b-9b5e-eed4fa7ba87b}">
