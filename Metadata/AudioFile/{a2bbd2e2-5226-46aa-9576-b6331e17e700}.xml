@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a2bbd2e2-5226-46aa-9576-b6331e17e700}">
+		<property name="assetPath">
+			<value>together/sound/pinolino/sfx_killenemy.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.3999999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3ec376c7-9dab-4e28-9892-9388771afac6}</destination>
+		</relationship>
+	</object>
+</objects>
